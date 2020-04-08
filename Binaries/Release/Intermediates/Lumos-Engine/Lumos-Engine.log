@@ -1,0 +1,9 @@
+﻿  Application.cpp
+     Creating library C:\Users\Vikas Malepati\Documents\Visual Studio 2015\Projects\Lumos\Binaries\Release\LSEngine.lib and object C:\Users\Vikas Malepati\Documents\Visual Studio 2015\Projects\Lumos\Binaries\Release\LSEngine.exp
+  Generating code
+  33 of 1589 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    44 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lumos-Engine.vcxproj -> C:\Users\Vikas Malepati\Documents\Visual Studio 2015\Projects\Lumos\Binaries\Release\LSEngine.dll
+  Lumos-Engine.vcxproj -> C:\Users\Vikas Malepati\Documents\Visual Studio 2015\Projects\Lumos\Binaries\Release\LSEngine.pdb (Full PDB)

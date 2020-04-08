@@ -1,0 +1,51 @@
+﻿  ls.cpp
+  VFS.cpp
+  System.cpp
+  StackAllocator.cpp
+  PoolAllocator.cpp
+  Pool.cpp
+  MemoryManager.cpp
+  Memory.cpp
+  FileSystem.cpp
+  Window.cpp
+  Input.cpp
+  Application.cpp
+  Win32Window.cpp
+  Win32Timer.cpp
+  Win32MemoryManager.cpp
+  Win32Log.cpp
+  Win32Input.cpp
+  Win32FileSystem.cpp
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\platformwin32\win32filesystem.cpp(32): warning C4244: 'argument': conversion from 'int64' to 'DWORD', possible loss of data
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\platformwin32\win32filesystem.cpp(32): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\platformwin32\win32filesystem.cpp(69): warning C4244: 'initializing': conversion from 'int64' to 'unsigned int', possible loss of data
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\platformwin32\win32filesystem.cpp(81): warning C4244: 'argument': conversion from 'int64' to 'unsigned int', possible loss of data
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\platformwin32\win32filesystem.cpp(99): warning C4244: 'argument': conversion from 'int64' to 'DWORD', possible loss of data
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\platformwin32\win32filesystem.cpp(99): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Win32Application.cpp
+  DXRenderer.cpp
+  DXContext.cpp
+  Generating Code...
+  Compiling...
+  Vec4.cpp
+  Vec3.cpp
+  Vec2.cpp
+  Quaternion.cpp
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\quaternion.cpp(179): error C2039: 'dot': is not a member of 'lumos::maths::Vec3'
+  c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\vec3.h(12): note: see declaration of 'lumos::maths::Vec3'
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\quaternion.cpp(181): error C2039: 'cross': is not a member of 'lumos::maths::Vec3'
+  c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\vec3.h(12): note: see declaration of 'lumos::maths::Vec3'
+  Mat4.cpp
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\mat4.cpp(349): error C2039: 'normalize': is not a member of 'lumos::maths::Vec3'
+  c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\vec3.h(12): note: see declaration of 'lumos::maths::Vec3'
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\mat4.cpp(350): error C2039: 'normalize': is not a member of 'lumos::maths::Vec3'
+  c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\vec3.h(12): note: see declaration of 'lumos::maths::Vec3'
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\mat4.cpp(350): error C2228: left of '.cross' must have class/struct/union
+c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\mat4.cpp(351): error C2039: 'cross': is not a member of 'lumos::maths::Vec3'
+  c:\users\vikas malepati\documents\visual studio 2015\projects\lumos\lumos-engine\source\maths\vec3.h(12): note: see declaration of 'lumos::maths::Vec3'
+  WindowEvent.cpp
+  MouseEvent.cpp
+  KeyEvent.cpp
+  Event.cpp
+  String.cpp
+  Generating Code...
